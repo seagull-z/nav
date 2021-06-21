@@ -1,0 +1,19 @@
+/* css reset */
+*{box-sizing:border-box;}
+*{:before,*:after{box-sizing:border-box;}}
+*{margin:0; padding:0;}
+
+/* style */
+body{background:#eee;}
+.globalHeader{}
+.globalHeader > input{}
+.globalHeader > button{}
+
+.globalMain{}
+
+.siteList{}
+.siteList > li{}
+.siteList .site{}
+.siteList .site > .logo{}
+.siteList .addButton{}
+
